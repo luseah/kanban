@@ -29,12 +29,28 @@
 
         aside h1 {
             font-size: 3vw;
-            margin: 150px 10%;
-            padding: 0;
-            color: rgb(0, 0, 0);
-            
+            margin: 150px auto 0 auto;
+            padding: 0 50px;
+            color: rgb(0, 0, 0); 
         }
 
+         aside p {
+            font-size: 1vw;
+            margin: 15px auto ;
+            padding: 0 50px;
+            color: rgb(0, 0, 0); 
+        }
+
+        aside button {
+            background-color: rgb(73, 65, 227);
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            font-size: 1vw;
+            margin: 15px 50px ;
+            cursor: pointer;
+            border-radius: 5px;
+        }
         main {
             width: 60%;
         }
